@@ -1,0 +1,12 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Avash Ghimire",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^15.0.0",
+    "moment": "^2.29.1"
+  }
+}
